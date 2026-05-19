@@ -15,3 +15,9 @@ public:
 
     }
 };
+int main() {
+    darivedClass a;
+    a.perkenalan();
+ 
+    return 0;
+}
